@@ -6,7 +6,7 @@
 %define		pdir	Text
 %define		pnam	Header
 Summary:	Text::Header - RFC 822/2068 `header' and `unheader' functions
-Summary(pl):	Text::Header - funkcje header i unheader dla RFC 822/2068
+Summary(pl.UTF-8):   Text::Header - funkcje header i unheader dla RFC 822/2068
 Name:		perl-Text-Header
 Version:	1.03
 Release:	1
@@ -28,12 +28,12 @@ do not provide any intelligent defaults of HTTP-specific methods. They
 are simply aimed at providing an easy means to address the mechanics
 of header parsing.
 
-%description -l pl
-Ten modu³ dostarcza dwie nowe funkcje: header i unheader,
-udostêpniaj±ce konstruowanie i przetwarzanie nag³ówków zgodnych z RFC
-822 do zastosowañ ogólnych. Nie dostarczaj± ¿adnych inteligentnych
-warto¶ci domy¶lnych dla metod specyficznych dla HTTP. Maj± na celu po
-prostu dostarczenie ³atwego mechanizmu do przetwarzania nag³ówków.
+%description -l pl.UTF-8
+Ten moduÅ‚ dostarcza dwie nowe funkcje: header i unheader,
+udostÄ™pniajÄ…ce konstruowanie i przetwarzanie nagÅ‚Ã³wkÃ³w zgodnych z RFC
+822 do zastosowaÅ„ ogÃ³lnych. Nie dostarczajÄ… Å¼adnych inteligentnych
+wartoÅ›ci domyÅ›lnych dla metod specyficznych dla HTTP. MajÄ… na celu po
+prostu dostarczenie Å‚atwego mechanizmu do przetwarzania nagÅ‚Ã³wkÃ³w.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
