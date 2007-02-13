@@ -6,7 +6,7 @@
 %define		pdir	Text
 %define		pnam	Header
 Summary:	Text::Header - RFC 822/2068 `header' and `unheader' functions
-Summary(pl.UTF-8):   Text::Header - funkcje header i unheader dla RFC 822/2068
+Summary(pl.UTF-8):	Text::Header - funkcje header i unheader dla RFC 822/2068
 Name:		perl-Text-Header
 Version:	1.03
 Release:	1
