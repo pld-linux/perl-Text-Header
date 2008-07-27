@@ -9,7 +9,7 @@ Summary:	Text::Header - RFC 822/2068 `header' and `unheader' functions
 Summary(pl.UTF-8):	Text::Header - funkcje header i unheader dla RFC 822/2068
 Name:		perl-Text-Header
 Version:	1.03
-Release:	1
+Release:	2
 # licenses given explicitly, not "same as perl"
 License:	GPL or Artistic
 Group:		Development/Languages/Perl
